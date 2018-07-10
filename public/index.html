@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>New York Times Search!</title>
+
+	<!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+	
+	<!-- Font Awesome CSS Icons (For cool glyphicons) -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+	
+
+
+	<!-- Style to fix the issue of text extending past panel length -->
+	<style>
+		.panel-body a 
+		{
+		    word-break:break-all
+		}
+	</style>
+</head>
+
+<body>
+	
+	<!-- This is where React will deploy the contents it generates -->
+	<div id="app"></div>
+
+	<!-- All of our JS code will be transpiled into this bundle.js file -->
+	<script src="bundle.js"></script>
+	
+</body>
+</html>
