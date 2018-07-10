@@ -15,4 +15,8 @@ MERN stack application that allows users to search the New York Times for articl
 
 
 
-![image](https://user-images.githubusercontent.com/32282229/42535861-941618c0-845e-11e8-9d52-3acfcc473990.png)
+![image](https://user-images.githubusercontent.com/32282229/42535955-e759b1c2-845e-11e8-8dc6-cb7c0bf5ecbd.png)
+- - -
+![image](https://user-images.githubusercontent.com/32282229/42536073-0f346e80-845f-11e8-9b59-0c13fc73f884.png)
+- - -
+
