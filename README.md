@@ -11,10 +11,12 @@ MERN stack application that allows users to search the New York Times for articl
    - Webpack
    - Mongoose
    - Axios
-   - Boottstrap
+   - Materialize.css
 
-Check it out [Here](https://newsscraperapp.herokuapp.com/#/?_k=emvyyw)
 
-<img width="885" alt="screen shot 2017-08-20 at 11 02 47 pm" src="https://user-images.githubusercontent.com/28279675/29505532-bcf872cc-85fb-11e7-8046-c519dd551276.png">
 
+![image](https://user-images.githubusercontent.com/32282229/42535955-e759b1c2-845e-11e8-8dc6-cb7c0bf5ecbd.png)
+- - -
+![image](https://user-images.githubusercontent.com/32282229/42536073-0f346e80-845f-11e8-9b59-0c13fc73f884.png)
+- - -
 
